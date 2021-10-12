@@ -1,0 +1,8 @@
+{
+  "name": "food-guide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4d1d1d76"
+}
