@@ -1,0 +1,14 @@
+<h6 style="font-weight: bold" [routerLink]="['tabs/tab1', id]">
+  {{ name }}
+</h6>
+<p style="margin: 0">{{ city }}</p>
+<ionic-rating-component
+  #rating
+  activeColor="#488aff"
+  defaultColor="#f4f4f4"
+  halfStar="true"
+  readonly="true"
+  rating="{{ score / 2 }}"
+  fontSize="12px"
+>
+</ionic-rating-component>

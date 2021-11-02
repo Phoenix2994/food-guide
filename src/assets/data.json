@@ -1,0 +1,157 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "city": "Noto (SR)",
+      "country": "Italia",
+      "address": "Via Carlo, Vico Pisacane, 3",
+      "name": "Trattoria Giufà",
+      "lat": 36.89018859589135,
+      "long": 15.072539726504212,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 7,
+        "service": 7,
+        "menu": 7,
+        "price": 6
+      },
+      "images": ["1-1.jpeg"]
+    },
+    {
+      "id": 2,
+      "city": "Siracusa (SR)",
+      "country": "Italia",
+      "address": "Via Cavour, 28",
+      "name": "Sicilia in Tavola",
+      "lat": 37.06170599397385,
+      "long": 15.292956024658185,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 7,
+        "service": 5,
+        "menu": 8,
+        "price": 6
+      },
+      "images": ["2-1.jpeg"]
+    },
+    {
+      "id": 3,
+      "city": "Noto (SR)",
+      "name": "Pizzeria Casa Matta",
+      "country": "Italia",
+      "address": "Via Tommaso Fazello, 23",
+      "lat": 36.89341732336414,
+      "long": 15.065414626504229,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 5,
+        "service": 6,
+        "menu": 9,
+        "price": 8
+      },
+      "images": ["3-1.jpeg", "3-2.jpeg", "3-3.jpeg"]
+    },
+    {
+      "id": 4,
+      "city": "Marzamemi (SR)",
+      "name": "Sama",
+      "country": "Italia",
+      "address": "Piazzale Raffaele Brancati, 2",
+      "lat": 36.74285792656812,
+      "long": 15.119098068827979,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 7,
+        "service": 6,
+        "menu": 8,
+        "price": 6
+      },
+      "images": ["4-1.jpeg", "4-2.jpeg"]
+    },
+    {
+      "id": 5,
+      "city": "Noto (SR)",
+      "name": "Tannur",
+      "country": "Italia",
+      "address": "Via Ascenzo Mauceri, 3",
+      "lat": 36.891756889220154,
+      "long": 15.07293061116067,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 6,
+        "service": 7,
+        "menu": 7,
+        "price": 6
+      },
+      "images": ["5-1.jpeg", "5-2.jpeg", "5-3.jpeg"]
+    },
+    {
+      "id": 6,
+      "city": "Castelmola (ME)",
+      "name": "A' Ficaredda",
+      "country": "Italia",
+      "address": "Via Tutti I Santi, Largo San Giorgio, 1",
+      "lat": 37.858780981661305,
+      "long": 15.278127682354285,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 6,
+        "service": 8,
+        "menu": 6,
+        "price": 7
+      },
+      "images": ["6-1.jpeg", "6-2.jpeg"]
+    },
+    {
+      "id": 7,
+      "city": "Castelmola (ME)",
+      "name": "Bar Turrisi",
+      "country": "Italia",
+      "address": "Via Papa Pio IX, 19",
+      "lat": 37.85851382849545,
+      "long": 15.277400882354243,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 8,
+        "service": 4,
+        "menu": 6,
+        "price": 5
+      },
+      "images": ["7-1.jpeg", "7-2.jpeg"]
+    },
+    {
+      "id": 8,
+      "city": "Giardini Naxos (ME)",
+      "name": "La Sirena",
+      "country": "Italia",
+      "address": "Via Schisò, 36",
+      "lat": 37.824560949942125,
+      "long": 15.274264497696707,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 6,
+        "service": 5,
+        "menu": 6,
+        "price": 5
+      },
+      "images": ["8-1.jpeg", "8-2.jpeg"]
+    },
+    {
+      "id": 9,
+      "city": "Castelmola (ME)",
+      "name": "Pizzeria Nina",
+      "country": "Italia",
+      "address": "Via Tutti I Santi",
+      "lat": 37.859073222443705,
+      "long": 15.278041111190133,
+      "date": "20/09/2021",
+      "ratings": {
+        "location": 7,
+        "service": 6,
+        "menu": 6,
+        "price": 5
+      },
+      "images": ["9-1.jpeg", "9-2.jpeg"]
+    }
+  ]
+}
