@@ -41,7 +41,7 @@
               defaultColor="#f4f4f4"
               halfStar="true"
               readonly="true"
-              rating="{{restaurant?.ratings.location / 2}}"
+              rating="{{restaurant?.ratings.location / 2 + ''}}"
               fontSize="22px"
             >
             </ionic-rating-component
@@ -56,7 +56,7 @@
               defaultColor="#f4f4f4"
               halfStar="true"
               readonly="true"
-              rating="{{restaurant?.ratings.service / 2}}"
+              rating="{{restaurant?.ratings.service / 2 + ''}}"
               fontSize="22px"
             >
             </ionic-rating-component>
@@ -71,7 +71,7 @@
               defaultColor="#f4f4f4"
               halfStar="true"
               readonly="true"
-              rating="{{restaurant?.ratings.menu / 2}}"
+              rating="{{restaurant?.ratings.menu / 2 + ''}}"
               fontSize="22px"
             >
             </ionic-rating-component
@@ -86,7 +86,7 @@
               defaultColor="#f4f4f4"
               halfStar="true"
               readonly="true"
-              rating="{{restaurant?.ratings.price / 2}}"
+              rating="{{restaurant?.ratings.price / 2 + ''}}"
               fontSize="22px"
             >
             </ionic-rating-component>
