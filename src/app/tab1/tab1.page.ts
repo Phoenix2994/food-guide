@@ -12,8 +12,6 @@ export class Tab1Page {
   map: Leaflet.Map;
   propertyList = [];
   markerClusterGroup: Leaflet.MarkerClusterGroup;
-  customPopup =
-    "<b>My office</b><br/><img src='http://netdna.webdesignerdepot.com/uploads/2014/05/workspace_06_previo.jpg' alt='maptime logo gif' width='150px'/>";
 
   constructor() {}
 
@@ -77,6 +75,7 @@ export class Tab1Page {
         .openPopup();
     }
     this.map.addLayer(this.markerClusterGroup);
+    this.map.fitBounds(this.markerClusterGroup.getBounds());
   }
 
   ionViewWillLeave() {

@@ -1,8 +1,13 @@
-<div [routerLink]="['tabs/tab1', id]" style="font-family: 'Lucida Handwriting', cursive">
-  <h6 style="font-weight: bold; white-space: nowrap">
+<div
+  [routerLink]="['tabs/tab1', id]"
+  style="
+    font-family: 'Comic Sans MS', 'Comic Sans', 'Lucida Handwriting', cursive;
+  "
+>
+  <h2 style="font-weight: bold; white-space: nowrap">
     {{ name }}
-  </h6>
-  <p style="margin: 0">{{ city }}</p>
+  </h2>
+  <h6>{{ city }}</h6>
   <ionic-rating-component
     #rating
     activeColor="#488aff"
@@ -10,7 +15,7 @@
     halfStar="true"
     readonly="true"
     [rating]="score / 2"
-    fontSize="12px"
+    fontSize="20px"
   >
   </ionic-rating-component>
 </div>
