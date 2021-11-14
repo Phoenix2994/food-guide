@@ -8,7 +8,7 @@
       "name": "Trattoria Giufà",
       "lat": 36.89018859589135,
       "long": 15.072539726504212,
-      "date": "20/09/2021",
+      "date": "13/09/2021",
       "ratings": {
         "location": 7,
         "service": 7,
@@ -25,7 +25,7 @@
       "name": "Sicilia in Tavola",
       "lat": 37.06170599397385,
       "long": 15.292956024658185,
-      "date": "20/09/2021",
+      "date": "14/09/2021",
       "ratings": {
         "location": 7,
         "service": 5,
@@ -42,7 +42,7 @@
       "address": "Via Tommaso Fazello, 23",
       "lat": 36.89341732336414,
       "long": 15.065414626504229,
-      "date": "20/09/2021",
+      "date": "14/09/2021",
       "ratings": {
         "location": 5,
         "service": 6,
@@ -59,7 +59,7 @@
       "address": "Piazzale Raffaele Brancati, 2",
       "lat": 36.74285792656812,
       "long": 15.119098068827979,
-      "date": "20/09/2021",
+      "date": "15/09/2021",
       "ratings": {
         "location": 7,
         "service": 6,
@@ -76,7 +76,7 @@
       "address": "Via Ascenzo Mauceri, 3",
       "lat": 36.891756889220154,
       "long": 15.07293061116067,
-      "date": "20/09/2021",
+      "date": "18/09/2021",
       "ratings": {
         "location": 6,
         "service": 7,
@@ -110,7 +110,7 @@
       "address": "Via Papa Pio IX, 19",
       "lat": 37.85851382849545,
       "long": 15.277400882354243,
-      "date": "20/09/2021",
+      "date": "21/09/2021",
       "ratings": {
         "location": 8,
         "service": 4,
@@ -127,7 +127,7 @@
       "address": "Via Schisò, 36",
       "lat": 37.824560949942125,
       "long": 15.274264497696707,
-      "date": "20/09/2021",
+      "date": "22/09/2021",
       "ratings": {
         "location": 6,
         "service": 5,
@@ -144,7 +144,7 @@
       "address": "Via Tutti I Santi",
       "lat": 37.859073222443705,
       "long": 15.278041111190133,
-      "date": "20/09/2021",
+      "date": "22/09/2021",
       "ratings": {
         "location": 7,
         "service": 6,
@@ -152,6 +152,108 @@
         "price": 5
       },
       "images": ["9-1.jpeg", "9-2.jpeg"]
+    },
+    {
+      "id": 10,
+      "city": "Bologna (BO)",
+      "name": "Nonna Rosa",
+      "country": "Italia",
+      "address": "Via Piave, 31",
+      "lat": 44.50129420565907,
+      "long": 11.315128269312904,
+      "date": "25/07/2021",
+      "ratings": {
+        "location": 6,
+        "service": 6,
+        "menu": 7,
+        "price": 6
+      },
+      "images": ["10-1.jpeg", "10-2.jpeg", "10-3.jpeg"]
+    },
+    {
+      "id": 11,
+      "city": "Santa Cristina Valgardena (BZ)",
+      "name": "La Tambra",
+      "country": "Italia",
+      "address": "Str. Dursan, 13",
+      "lat": 46.55819238074703,
+      "long": 11.723844111327201,
+      "date": "16/07/2021",
+      "ratings": {
+        "location": 6,
+        "service": 6,
+        "menu": 8,
+        "price": 4
+      },
+      "images": ["11-1.jpeg", "11-2.jpeg"]
+    },
+    {
+      "id": 12,
+      "city": "Santa Cristina Valgardena (BZ)",
+      "name": "L Fudlè",
+      "country": "Italia",
+      "address": "Str. Dursan, 86",
+      "lat": 46.55827377112667,
+      "long": 11.725821882491175,
+      "date": "18/07/2021",
+      "ratings": {
+        "location": 6,
+        "service": 7,
+        "menu": 7,
+        "price": 7
+      },
+      "images": ["12-1.jpeg", "12-2.jpeg"]
+    },
+    {
+      "id": 13,
+      "city": "Marina di Massa (MS)",
+      "name": "Ristorante La Peniche",
+      "country": "Italia",
+      "address": "Via Lungobrugiano, 3",
+      "lat": 44.010751807128095,
+      "long": 10.099112482391925,
+      "date": "12/08/2021",
+      "ratings": {
+        "location": 6,
+        "service": 7,
+        "menu": 7,
+        "price": 5
+      },
+      "images": ["13-1.jpeg", "13-2.jpeg"]
+    },
+    {
+      "id": 14,
+      "city": "Lido di Camaiore (LU)",
+      "name": "Caffe Godot",
+      "country": "Italia",
+      "address": "Viale Europa, 72",
+      "lat": 43.894015908345445,
+      "long": 10.224848313075682,
+      "date": "18/06/2021",
+      "ratings": {
+        "location": 7,
+        "service": 7,
+        "menu": 7,
+        "price": 4
+      },
+      "images": ["14-1.jpeg", "14-2.jpeg", "14-3.jpeg"]
+    },
+    {
+      "id": 15,
+      "city": "Bologna (BO)",
+      "name": "Osteria Bartolini",
+      "country": "Italia",
+      "address": "Piazza Malpighi, 16",
+      "lat": 44.493900557469544,
+      "long": 11.3365251112464,
+      "date": "04/11/2021",
+      "ratings": {
+        "location": 7,
+        "service": 7,
+        "menu": 6,
+        "price": 6
+      },
+      "images": ["15-1.jpeg", "15-2.jpeg", "15-3.jpeg", "15-4.jpeg"]
     }
   ]
 }
