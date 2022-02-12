@@ -254,6 +254,74 @@
         "price": 6
       },
       "images": ["15-1.jpeg", "15-2.jpeg", "15-3.jpeg", "15-4.jpeg"]
+    },
+    {
+      "id": 16,
+      "city": "Bologna (BO)",
+      "name": "Mythos",
+      "country": "Italia",
+      "address": "Via Carlo Sigonio, 3/A",
+      "lat": 44.484016796528046,
+      "long": 11.37193408465822,
+      "date": "18/11/2021",
+      "ratings": {
+        "location": 5,
+        "service": 6,
+        "menu": 5,
+        "price": 6
+      },
+      "images": ["16-1.jpeg"]
+    },
+    {
+      "id": 17,
+      "city": "Firenze (FI)",
+      "name": "MUN Sushi Lab",
+      "country": "Italia",
+      "address": "Via di Novoli, 53",
+      "lat": 43.79105877204088,
+      "long": 11.225004782238157,
+      "date": "11/12/2021",
+      "ratings": {
+        "location": 7,
+        "service": 6,
+        "menu": 7,
+        "price": 6
+      },
+      "images": ["17-1.jpeg", "17-2.jpeg", "17-3.jpeg", "17-4.jpeg", "17-5.jpeg"]
+    },
+    {
+      "id": 18,
+      "city": "Fiesole (FI)",
+      "name": "Tullio a Montebeni",
+      "country": "Italia",
+      "address": "Via Ontignano, 48",
+      "lat": 43.79235855948672,
+      "long": 11.332650211073608,
+      "date": "22/01/2021",
+      "ratings": {
+        "location": 5,
+        "service": 4,
+        "menu": 7,
+        "price": 7
+      },
+      "images": ["18-1.jpeg, 18-2.jpeg"]
+    },
+    {
+      "id": 19,
+      "city": "Radda in Chianti (SI)",
+      "name": "Osteria Il Rifugio del Chianti",
+      "country": "Italia",
+      "address": "Località Montemuro, 12",
+      "lat": 43.545821980004035,
+      "long": 11.397494682228691,
+      "date": "29/01/2021",
+      "ratings": {
+        "location": 6,
+        "service": 8,
+        "menu": 8,
+        "price": 7
+      },
+      "images": ["19-1.jpeg", "19-2.jpeg"]
     }
   ]
 }
